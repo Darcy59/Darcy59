@@ -47,19 +47,11 @@ I like building **reproducible ML workflows** and writing clear notebooks/report
 **Languages:** Python, SQL  
 **ML:** scikit-learn, cross-validation, hyperparameter tuning, feature engineering  
 **Analytics/BI:** Tableau, visualization & storytelling  
-**Workflow:** GitHub, reproducible notebooks
 
 ---
 
 ## What I’m Improving Next
-- Add stronger baselines + comparisons (linear models vs trees vs NN)
-- Add error analysis + interpretation (feature importance / sensitivity)
-- Add 1–2 charts/screenshots per repo to make results easy to scan
+- Build stronger baselines and compare models (linear vs tree-based vs neural nets)
+- Add error analysis and interpretability (feature importance / sensitivity checks)
+- Include 1–2 visuals per repo (CV results, leaderboard, or key plots) for quick scanning
 
----
-
-## GitHub Stats (optional)
-> If you want the “fancy profile” look like the examples:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darcy59&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darcy59&layout=compact)
